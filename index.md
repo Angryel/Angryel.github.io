@@ -22,8 +22,8 @@ También participo en diversos Mundiales y Europeos con las selecciones _sub 16_
 
 Si desea obtener información más detallada sobre Andrés Iniesta:
 
-1. Puede acceder a su [página de la Wikipedia](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta) {:target="_blank"}
-2. Puede acceder a su [página web oficial](https://www.andresiniesta.es/  {:target="_blank"})
+1. Puede acceder a su [página de la Wikipedia](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta)
+2. Puede acceder a su [página web oficial](https://www.andresiniesta.es/)
 3. Puede acceder a su [Twitter - `@andresiniesta8`](https://x.com/andresiniesta8)
 
 
