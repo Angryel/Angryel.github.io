@@ -1,10 +1,9 @@
+favicon_ico: "images/cabecera.ico"
+logo: "images/cabecera.png"
 title: Andrés Iniesta
 description: Una web homenaje a uno de los jugadores mas grandes de la historia del futbol.
 theme: just-the-docs
 color_scheme: dark
-
-favicon_ico: "images/cabecera.ico"
-logo: "images/cabecera.png"
 
 url: https://Angryel.github.io
 
