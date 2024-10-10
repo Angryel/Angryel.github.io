@@ -1,17 +1,18 @@
 ---
 title: Don Andrés
 layout: home
+nav_order: 1
 ---
 
 
-Bienvenidos a la web homenaje a don **Andrés Iniesta Luján**, uno de los jugadores españoles de fútbol mas importantes de la historia de este país. 
+Bienvenidos a la web homenaje a don **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
 
-Iniesta anunció su retirada hace unos dias, contando con 40 años y tras 32 años de actividad futbolística.
+Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años de actividad futbolística le han llevado a conseguir la impresionante cifra de 40 títulos en 3 equipos diferentes, siendo el jugador mas laureado de la historia del futbol Español. 
 
-More specifically, the created site:
+Los clubs para los que ha jugado incluyen:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- `Categorías inferiores` Albacete Balompié (1992 - 1996)
+- `Categorias inferiores` `Equipo filial` F.C. Barcelona (1996 - 2002)
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
