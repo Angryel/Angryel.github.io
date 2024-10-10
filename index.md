@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 {: .note-title }
-> Don Andrés Iniesta
+> # Don Andrés Iniesta
 >
-> El hombre que susurraba a los balones
+> ## El hombre que susurraba a los balones
 
 
 Bienvenidos a la web homenaje a **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
