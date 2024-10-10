@@ -11,8 +11,9 @@ Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años
 
 Los clubs para los que ha jugado incluyen:
 
-- `Categorías inferiores` Albacete Balompié (1992 - 1996)
-- `Categorias inferiores` `Equipo filial` F.C. Barcelona (1996 - 2002)
+- `Categorías inferiores`  Albacete Balompié (1992 - 1996)
+- `Categorías inferiores`  `Equipo filial`  F.C. Barcelona (1996 - 2002)
+- `Categoría profesional`  F.C. Barcelona (2002 - 2018)
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
