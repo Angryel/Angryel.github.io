@@ -8,10 +8,13 @@ nav_order: 1
 >
 > ## El hombre que susurraba a los balones
 
-<br><br>
+<br><br><br>
+
 Bienvenidos a la web homenaje a **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
 
 Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años de actividad futbolística le han llevado a conseguir la impresionante cifra de 40 títulos en 3 equipos diferentes, siendo el jugador mas laureado de la historia del futbol Español. 
+
+<br><br>
 
 Los clubs para los que ha jugado incluyen:
 
@@ -24,7 +27,7 @@ Los clubs para los que ha jugado incluyen:
 Además, ha jugado con la Selección Española absoluta desde 2006 a 2018, participando en 4 Mundiales de Futbol, 3 Eurocopas y 1 Copa Confederaciones.
 También participo en diversos Mundiales y Europeos con las selecciones _sub 16_ a _sub 20_.
 
-
+<br><br>
 
 Si desea obtener información más detallada sobre Andrés Iniesta:
 
