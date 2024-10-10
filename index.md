@@ -11,20 +11,20 @@ Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años
 
 Los clubs para los que ha jugado incluyen:
 
-- `Categorías inferiores` - Albacete Balompié (1992 - 1996)
-- `Categorías inferiores` - `Equipo filial` - F.C. Barcelona (1996 - 2002)
-- `Categoría profesional` - F.C. Barcelona (2002 - 2018)
-- `Categoría profesional` - Vissel Kobe (2018 - 2023)
-- `Categoría profesional` - Emirates Club (2023 - 2025)
+- `Categorías inferiores` - Albacete Balompié _(1992 - 1996)_
+- `Categorías inferiores` - `Equipo filial` - F.C. Barcelona _(1996 - 2002)_
+- `Categoría profesional` - F.C. Barcelona _(2002 - 2018)_
+- `Categoría profesional` - Vissel Kobe _(2018 - 2023)_
+- `Categoría profesional` - Emirates Club _(2023 - 2025)_
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Además, ha jugado con la Selección Española absoluta desde 2006 a 2018, participando en 4 Mundiales de Futbol, 3 Eurocopas y 1 Copa Confederaciones.
+También participo en diversos Mundiales y Europeos con las selecciones _sub 16_ a _sub 20_.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Si desea obtener información más detallada sobre Andrés Iniesta:
 
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+1. [Puede acceder a su página de la Wikipedia](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta)
+2. [Puede acceder a su página web oficial](https://www.andresiniesta.es/)
+3. [Puede acceder a su Twitter - `@andresiniesta8`](https://x.com/andresiniesta8)
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
