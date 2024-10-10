@@ -4,6 +4,7 @@ theme: just-the-docs
 color_scheme: dark
 
 favicon_icon: "images/iniesta.ico"
+logo: "images/iniesta.png"
 
 url: https://Angryel.github.io
 
