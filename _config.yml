@@ -3,8 +3,8 @@ description: Una web homenaje a uno de los jugadores mas grandes de la historia 
 theme: just-the-docs
 color_scheme: dark
 
-favicon_icon: "images/iniesta.ico"
-logo: "images/cabecera.png"
+favicon_icon: "images/cabecera.ico"
+logo: "images/iniesta.png"
 
 url: https://Angryel.github.io
 
