@@ -1,8 +1,9 @@
 ---
+@import "./color_schemes/dark";
 title: Don Andrés
 layout: home
 ---
-color_scheme: dark
+
 
 Bienvenidos a la web homenaje a don **Andrés Iniesta Luján**, uno de los jugadores españoles de fútbol mas importantes de la historia de este país. 
 
