@@ -26,6 +26,10 @@ Si desea obtener información más detallada sobre Andrés Iniesta:
 2. Puede acceder a su [página web oficial](https://www.andresiniesta.es/){:target="_blank"}
 3. Puede acceder a su [Twitter - `@andresiniesta8`](https://x.com/andresiniesta8){:target="_blank"}
 
+1. Puede acceder a su página de la Wikipedia haciendo [Click aquí](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta){: .btn .btn-purple }{:target="_blank"}
+2. Puede acceder a su página web personal haciendo [Click aquí](https://www.andresiniesta.es/){: .btn .btn-green }{:target="_blank"}
+3. Puede acceder a su Twitter haciendo [Click aquí](https://x.com/andresiniesta8){: .btn .btn-blue }{:target="_blank"}
+
 
 ----
 
