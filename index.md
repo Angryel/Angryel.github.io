@@ -4,7 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-_includes/iniesta.html
 
 Bienvenidos a la web homenaje a don **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
 
