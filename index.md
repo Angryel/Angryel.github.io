@@ -22,9 +22,9 @@ También participo en diversos Mundiales y Europeos con las selecciones _sub 16_
 
 Si desea obtener información más detallada sobre Andrés Iniesta:
 
-1. [Puede acceder a su página de la Wikipedia](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta)
-2. [Puede acceder a su página web oficial](https://www.andresiniesta.es/)
-3. [Puede acceder a su Twitter - `@andresiniesta8`](https://x.com/andresiniesta8)
+1. Puede acceder a su [página de la Wikipedia](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta)
+2. Puede acceder a su [página web oficial](https://www.andresiniesta.es/)
+3. Puede acceder a su [Twitter - `@andresiniesta8`](https://x.com/andresiniesta8)
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
