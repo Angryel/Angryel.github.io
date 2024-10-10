@@ -1,5 +1,4 @@
 ---
-@import "./color_schemes/dark";
 title: Don Andrés
 layout: home
 ---
