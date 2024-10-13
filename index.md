@@ -11,7 +11,7 @@ nav_order: 1
 
 <br>
 
-![See you space cowboy](assets/images/eterno.jpg)
+![Infinito](assets/images/eterno.jpg)
 
 <br>
 
