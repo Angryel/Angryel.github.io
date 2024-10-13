@@ -24,6 +24,7 @@ En 2015, Iniesta fue nombrado capitán del Barcelona, sucediendo a Xavi. Bajo su
 
 En el plano individual, Iniesta fue reconocido con varios premios, incluyendo el UEFA Best Player Award en 2012 y fue nombrado mejor mediocampista en varias ocasiones. Su talento y dedicación le han valido un lugar entre los mejores mediocampistas de la historia del fútbol​. Nunca ha sido expulsado de un partido.
 
+<br>
 
 | F.C. Barcelona |      Partidos     | Goles | Asistencias | 
 |:---------------|:------------------|:------|:------------|
