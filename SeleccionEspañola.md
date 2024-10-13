@@ -23,6 +23,6 @@ Por su actuación en el torneo, fue nombrado el mejor jugador de la final, conso
 
 Iniesta también tuvo un papel clave en la Euro 2012, donde fue elegido el mejor jugador del torneo, contribuyendo significativamente a la victoria de España sobre Italia en la final​.
 
-A lo largo de su carrera internacional, Iniesta acumuló 130 partidos y 13 goles, convirtiéndose en el jugador español más laureado de la historia​.
+A lo largo de su carrera internacional, Iniesta acumuló 130 partidos y 13 goles, siendo así en el jugador español más laureado de la historia​.
 
 Su estilo de juego, caracterizado por su visión, técnica y capacidad para crear oportunidades, lo convirtió en un referente no solo para su selección, sino también para el fútbol mundial. Tras su retiro de la selección en 2018, Iniesta dejó un legado imborrable en la historia del fútbol español​.
