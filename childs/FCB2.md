@@ -28,3 +28,4 @@ En el plano individual, Iniesta fue reconocido con varios premios, incluyendo el
 | F.C. Barcelona |      Partidos     | Goles | Asistencias | 
 |:---------------|:------------------|:------|:------------|
 | 16 Temporadas  |        674        |  57   |     139     |
+
