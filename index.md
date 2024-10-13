@@ -7,7 +7,7 @@ nav_order: 1
 {: .note-title }
 > <span style="color: DodgerBlue; font-size: 2em; font-weight: bold;">Don Andrés Iniesta</span>
 >
-> ## El hombre que susurraba a los balones
+> ## El genio de Fuentealbilla
 
 <br><br><br>
 
