@@ -26,3 +26,9 @@ Iniesta también tuvo un papel clave en la Euro 2012, donde fue elegido el mejor
 A lo largo de su carrera internacional, Iniesta acumuló 130 partidos y 13 goles, siendo así en el jugador español más laureado de la historia​.
 
 Su estilo de juego, caracterizado por su visión, técnica y capacidad para crear oportunidades, lo convirtió en un referente no solo para su selección, sino también para el fútbol mundial. Tras su retiro de la selección en 2018, Iniesta dejó un legado imborrable en la historia del fútbol español​.
+
+<br>
+
+| Selección Abs.{: .label .label-red } |      Partidos     | Goles | Asistencias | 
+|:---------------|:------------------|:------|:------------|
+|    12 años     |        131        |  23   |     32      |
