@@ -2,6 +2,7 @@
 title: Selección Española
 parent: Barcelona y España
 nav_order: 4
+layout: default
 ---
 
 # Iniesta en la Selección Española de Futbol
