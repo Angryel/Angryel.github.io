@@ -17,9 +17,11 @@ menu:
       url: /futbol/
       submenu:
         - title: "F.C. Barcelona"
-          url: /FCB/
-        - title: "Proyecto 2"
-          url: /SeleccionEspañola/
+          url: /FCB2/
+        - title: "Seleccion Española"
+          url: /Spain/
+    - title: "Mas allá del Fútbol"
+      url: /nofutbol/
 
 
 aux_links:
