@@ -32,8 +32,8 @@ Los clubs para los que ha jugado incluyen:
 
 <br>
 
-Además, ha jugado con la Selección Española absoluta desde 2006 a 2018, participando en 4 Mundiales de Futbol, 3 Eurocopas y 1 Copa Confederaciones.
-También participo en diversos Mundiales y Europeos con las selecciones _sub 16_ a _sub 20_.
+Además, ha jugado con la Selección Española absoluta desde 2006 a 2018, participando en 4 Mundiales de Fútbol, 3 Eurocopas y 1 Copa Confederaciones.
+También participó en diversos Mundiales y Europeos con las selecciones _sub 16_ a _sub 20_.
 
 <br><br>
 
