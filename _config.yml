@@ -3,6 +3,8 @@ description: Una web homenaje a uno de los jugadores más grandes de la historia
 theme: just-the-docs
 color_scheme: dark
 
+search_enabled: false
+
 logo: "assets/images/iniesto.jpg"
 
 url: https://Angryel.github.io
