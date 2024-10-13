@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 {: .note-title }
-> <p style="color:DodgerBlue;"> # **Don Andrés Iniesta**</p>
+> <h1 style="color:DodgerBlue;">**Don Andrés Iniesta**</h1>
 >
 > ## El hombre que susurraba a los balones
 
