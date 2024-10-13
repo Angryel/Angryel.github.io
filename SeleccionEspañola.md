@@ -1,7 +1,7 @@
 ---
 title: Selección Española
-layout: home
-nav_order: 3
+parent: Barcelona y España
+nav_order: 2
 ---
 
 
