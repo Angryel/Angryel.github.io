@@ -8,7 +8,7 @@ parent: Barcelona y España
 
 <br>
 
-![Andres Iniesta y Pep Guardiola](/main/assets/images/iniesgones.jpg)
+![Andres Iniesta y Luis Aragonés](/assets/images/iniesgones.jpg)
 
 ### Luis Aragonés (2007): _"Le he dicho a Iniesta antes de salir que los grandes futbolistas no sólo juegan bien, sino que hacen goles también"._
 
