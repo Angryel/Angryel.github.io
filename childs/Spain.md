@@ -3,7 +3,6 @@ title: Selección Española
 parent: Barcelona y España
 ---
 
-
 # Iniesta en la Selección Española de Futbol
 
 <br>
