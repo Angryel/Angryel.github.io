@@ -29,6 +29,6 @@ Su estilo de juego, caracterizado por su visión, técnica y capacidad para crea
 
 <br>
 
-| Selección Abs.{: .label .label-red } |      Partidos     | Goles | Asistencias | 
+| Selección Abs. |      Partidos     | Goles | Asistencias | 
 |:---------------|:------------------|:------|:------------|
 |    12 años     |        131        |  23   |     32      |
