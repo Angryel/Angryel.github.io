@@ -5,7 +5,7 @@ nav_order: 5
 ---
 <br>
 
-![Andres Iniesta y ter Stegen en un acto de Unicef](..assets/images/unicef.jpg)
+![Andres Iniesta y ter Stegen en un acto de Unicef](assets/images/unicef.jpg)
 
 <br>
 
