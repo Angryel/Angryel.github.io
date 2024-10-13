@@ -4,7 +4,6 @@ parent: Barcelona y España
 nav_order: 4
 ---
 
-
 # Iniesta en la Selección Española de Futbol
 
 <br>
