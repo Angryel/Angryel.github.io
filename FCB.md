@@ -1,7 +1,7 @@
 ---
 title: F.C. Barcelona
-layout: home
-nav_order: 2
+parent: Barcelona y España
+nav_order: 1
 ---
 
 # Iniesta en el F.C. Barcelona
