@@ -3,6 +3,11 @@ title: Mas allá del Futbol
 layout: home
 nav_order: 5
 ---
+<br>
+
+![Andres Iniesta y ter Stegen en un acto de Unicef](..assets/images/unicef.jpg)
+
+<br>
 
 Andrés Iniesta, reconocido por su talento en el fútbol, ha ampliado su impacto más allá del terreno de juego, involucrándose en una variedad de negocios y actividades filantrópicas. Tras su retiro, Iniesta ha explorado el mundo empresarial, destacando su participación en el sector del vino. En 2010, cofundó la bodega Bodega Iniesta en su localidad natal de Fuentealbilla, en Albacete, donde produce vinos de alta calidad que han ganado reconocimiento internacional. Iniesta también ha colaborado con marcas como Puma, siendo embajador de la marca y participando en campañas publicitarias que enfatizan su conexión con el deporte.
 
