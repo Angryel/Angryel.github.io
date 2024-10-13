@@ -39,5 +39,3 @@ Si desea obtener información más detallada sobre Andrés Iniesta:
 * Puede acceder a su [Twitter - `@andresiniesta8`](https://x.com/andresiniesta8){:target="_blank"}
 
 ----
-
-
