@@ -13,7 +13,7 @@ menu:
   main:
     - title: "Don Andrés"
       url: /index/
-    - title: "Sobre mí"
+    - title: "Barcelona y España"
       url: /futbol/
       submenu:
         - title: "F.C. Barcelona"
