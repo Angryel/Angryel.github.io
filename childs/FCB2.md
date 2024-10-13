@@ -2,6 +2,7 @@
 title: F.C. Barcelona
 parent: Barcelona y España
 nav_order: 3
+layout: default
 ---
 
 
