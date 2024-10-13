@@ -9,7 +9,9 @@ nav_order: 1
 >
 > ## El genio de Fuentealbilla
 
-<br><br><br>
+<br>
+![See you space cowboy](assets/images/gracias.jpg)
+<br>
 
 Bienvenidos a la web homenaje a **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
 
