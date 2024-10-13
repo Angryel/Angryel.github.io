@@ -9,3 +9,4 @@ nav_order: 2
 ### Guardiola (2009): _“Andrés come aparte. No lleva pendientes, no se pinta el pelo, juega 20 minutos y no se queja... Es el ejemplo. Así se lo digo a los chicos: ‘Fijaos en Iniesta’”._
 
 
+![Andres Iniesta y Pep Guardiola](assets/images/iniesdola.jpg)
