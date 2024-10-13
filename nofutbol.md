@@ -1,12 +1,12 @@
 ---
-title: Más allá del Futbol
+title: Más allá del Fútbol
 layout: home
 nav_order: 5
 ---
 
 <br>
 
-# Más allá del Futbol
+# Más allá del Fútbol
 
 <br>
 
