@@ -24,8 +24,14 @@ Durante su tiempo en el Barça, Iniesta formó parte de una de las generaciones 
 
 Iniesta se destacó no solo por su habilidad técnica y visión de juego, sino también por su capacidad para influir en los momentos cruciales de los partidos.
 
-En 2015, Iniesta fue nombrado capitán del Barcelona, sucediendo a Xavi. Bajo su liderazgo, el equipo continuó ganando trofeos y consolidándose como uno de los mejores de la historia. Su legado en el club se selló con una despedida emotiva en mayo de 2018, tras lo cual se trasladó a jugar al Vissel Kobe en Japón​
+En 2015, Iniesta fue nombrado capitán del Barcelona, sucediendo a Xavi. Bajo su liderazgo, el equipo continuó ganando trofeos y consolidándose como uno de los mejores de la historia. Su legado en el club se selló con una despedida emotiva en mayo de 2018, tras lo cual se trasladó a jugar al Vissel Kobe en Japón​.
 
 .
 
-En el plano individual, Iniesta fue reconocido con varios premios, incluyendo el UEFA Best Player Award en 2012 y fue nombrado mejor mediocampista en varias ocasiones. Su talento y dedicación le han valido un lugar entre los mejores mediocampistas de la historia del fútbol​
+En el plano individual, Iniesta fue reconocido con varios premios, incluyendo el UEFA Best Player Award en 2012 y fue nombrado mejor mediocampista en varias ocasiones. Su talento y dedicación le han valido un lugar entre los mejores mediocampistas de la historia del fútbol​. Nunca ha sido expulsado de un partido.
+
+.
+
+| F.C. Barcelona |      Partidos     | Goles | Asistencias | 
+|:---------------|:------------------|:------|:------------|
+| 16 Temporadas  |        674        |  57   |     139     |
