@@ -13,7 +13,7 @@ nav_order: 1
 
 Bienvenidos a la web homenaje a **Andrés Iniesta Luján**, uno de los jugadores de fútbol mas importantes de la historia de este país. 
 
-Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años de actividad futbolística le han llevado a conseguir la impresionante cifra de 40 títulos en 3 equipos diferentes, siendo el jugador mas laureado de la historia del futbol Español. 
+Iniesta anunció su retirada hace unos dias, contando con 40 años. Sus 32 años de actividad futbolística le han llevado a conseguir la impresionante cifra de 40 títulos en 3 equipos diferentes, siendo el jugador Español mas laureado de la historia de este deporte. 
 
 <br>
 
