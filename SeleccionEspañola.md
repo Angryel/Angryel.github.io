@@ -15,7 +15,7 @@ nav_order: 3
 
 <br>
 
-Andrés Iniesta tuvo una destacada carrera con la selección española, donde jugó desde 2006 hasta 2018. Durante este período, se convirtió en un pilar fundamental del equipo y uno de los mejores mediocampistas de la historia del fútbol. Iniesta debutó en la selección mayor en una amistoso contra Suecia, y rápidamente se ganó un lugar en el equipo titular​
+Andrés Iniesta tuvo una destacada carrera con la selección española, donde jugó desde 2006 hasta 2018. Durante este período, se convirtió en un pilar fundamental del equipo y uno de los mejores mediocampistas de la historia del fútbol. Iniesta debutó en la selección absoluta en una amistoso contra Suecia, y rápidamente se ganó un lugar en el equipo titular​.
 
 Su mayor logro con la selección fue ser parte del equipo que ganó la Eurocopa en 2008 y 2012, así como la Copa del Mundo en 2010. En la final del Mundial de Sudáfrica, Iniesta anotó el gol decisivo en la prórroga, otorgándole a España su primer título mundial​.
 
