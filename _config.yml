@@ -9,5 +9,18 @@ logo: "assets/images/iniesto.jpg"
 
 url: https://Angryel.github.io
 
+menu:
+  main:
+    - title: "Don Andrés"
+      url: /index/
+    - title: "Sobre mí"
+      url: /futbol/
+      submenu:
+        - title: "F.C. Barcelona"
+          url: /FCB/
+        - title: "Proyecto 2"
+          url: /SeleccionEspañola/
+
+
 aux_links:
   ¡Iniesta de mi vida!: https://www.youtube.com/watch?v=6-EqlQMPmDI
