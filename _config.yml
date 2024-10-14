@@ -31,5 +31,5 @@ aux_links:
 nav_external_links:
   - title: En el Top 3 de Españoles queridos por Inglaterra.
     url: https://www.youtube.com/watch?v=zWBKP-DZNEc
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+    hide_icon: false 
+    opens_in_new_tab: true 
