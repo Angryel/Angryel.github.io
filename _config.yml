@@ -7,6 +7,8 @@ search_enabled: false
 
 logo: "assets/images/iniesto.jpg"
 
+favicon_ico: "/assets/images/icono.ico"
+
 url: https://Angryel.github.io
 
 menu:
