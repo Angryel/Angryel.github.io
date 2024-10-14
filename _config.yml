@@ -11,19 +11,6 @@ favicon_ico: "/assets/images/icono.ico"
 
 url: https://Angryel.github.io
 
-menu:
-  main:
-    - title: "Don Andrés"
-      url: /index/
-    - title: "Barcelona y España"
-      url: /futbol/
-      submenu:
-        - title: "F.C. Barcelona"
-          url: /FCB2/
-        - title: "Seleccion Española"
-          url: /Spain/
-    - title: "Mas allá del Fútbol"
-      url: /nofutbol/
 
 aux_links:
   ¡Iniesta de mi vida!: https://www.youtube.com/watch?v=6-EqlQMPmDI
